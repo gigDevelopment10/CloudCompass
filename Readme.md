@@ -1,6 +1,8 @@
 <h1> Team - Deep In AI </h1>
 <h3> By. Zoya Jamadar </h3>
 
+*project was originally designed for Veritas U-Connect 
+
 <img width="777" alt="Screenshot 2023-03-05 at 9 26 35 PM" src="https://user-images.githubusercontent.com/84071291/222971334-356327d1-d304-487c-940f-1eb8a0676fe2.png">
 
 <h2> Description : </h2>
@@ -63,14 +65,13 @@ https://pypi.org/project/cloudcompass/
 ```mermaid
 
 gantt
-dateFormat  YYYY-MM-DD
-title Adding GANTT diagram to mermaid
-excludes weekdays 2014-01-10
+dateFormat  2023-02-26
+title Time line in which CloudCompass 0.0.1 was developed 
 
-section A section
-Completed task            :done,    des1, 2014-01-06,2014-01-08
-Active task               :active,  des2, 2014-01-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2               :         des4, after des3, 5d
+section 1 week schedule
+Completed task               :done,    des1, 2023-02-26,2023-03-04
+Ideation task                :active,  des2, 2023-02-27, 3d
+System Design + Backend setup:         des3, after des2, 2d
+Package Design               :         des4, after des3, 2d
 
 ```
