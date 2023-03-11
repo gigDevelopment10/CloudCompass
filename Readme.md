@@ -78,7 +78,7 @@ Package Design               :         des4, after des3, 2d
 <h3>Featured Here 🥳</h3>
 <a href="https://vox.veritas.com/t5/Inside-Veritas/Veritas-India-invited-30-college-students-to-the-first-uConnect/ba-p/899494" alt="FEATURED">
  @Veritas_VOX
-</a>
+</a><br>
 <a href="https://www.linkedin.com/posts/shbhmkmr_lifeatveritas-teamveritas-illuminate2023-activity-7037711678825803776-ExND?utm_source=share&utm_medium=member_desktop" alt="FEATURED Linkedn">
  @Veritas_Linkedin
 </a>
