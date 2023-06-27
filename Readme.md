@@ -38,8 +38,6 @@ This platform also offers insights on how to **optimize your cloud usage and cos
 
 ✅ **Innovative and Efficient** - "AI-powered, personalized recommendations and user-friendly interface simplifies cloud migration with Cloud Compass." 
 
-✅ **Users Experience** - (Din't get what's required to be mentioned here)
-
 ✅ **X-Factor** - Data is the most critical factor in a business, keeping this aspect as priority the algorithm is designed wrapping the critical information using the RSA algorithm.
 
 
